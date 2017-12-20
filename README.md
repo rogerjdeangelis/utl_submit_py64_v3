@@ -5,7 +5,7 @@ Updated version of utl_submit_py64 that returns python text to SAS via macro var
     ```    ```
     ```  see documentation on how to use the Python interface at the end of this message.  ```
     ```    ```
-    ```   Macro utl_submit_py64 now returns a 'pyhton' macro variable back into paren SAS.  ```
+    ```   Macro utl_submit_py64 now returns a 'pyhton' macro variable back into parent SAS.  ```
     ```   Should work for mutiple operating systems.  ```
     ```    ```
     ```     WORKING CODE  ```
